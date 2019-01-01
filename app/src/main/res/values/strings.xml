@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Eksplor</string>
+
+    <string name="attractions">Attractions</string>
+    <string name="beaches">Beaches</string>
+    <string name="near_by">Near By</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="image_of_a_place">Image of a place</string>
+
+    <!-- attractions -->
+    <string name="end_point">End Point</string>
+    <string name="manipal_lake">Manipal Lake</string>
+    <string name="laser_tag">Laser Tag</string>
+    <string name="museum_anatomy">Museum of Anatomy &amp; Pathology</string>
+    <string name="sri_krishna_temple">Sri Krishna Temple</string>
+    <string name="venugopal_temple">Venugopal Temple</string>
+
+    <!-- Beaches -->
+    <string name="malpe_beach">Maple Beach</string>
+    <string name="kapu_beach">Kapu Beach</string>
+    <string name="kodi_beach">Kodi Beach</string>
+    <string name="mattu_beach">Mattu Beach</string>
+    <string name="padubidri_beach">Padubidri Beach</string>
+
+    <!-- Near by -->
+    <string name="st_mary_island">St Mary\'s Island</string>
+    <string name="karkala">Karkala</string>
+    <string name="agumbe">Agumbe</string>
+    <string name="kudremukh">Kudremukh</string>
+    <string name="turtle_bay">Tutle Bay</string>
+
+    <!-- Restaurants -->
+    <string name="dollops">Dollops</string>
+    <string name="the_egg_factory">The Egg Factory</string>
+    <string name="saiba">Saiba</string>
+    <string name="eye_of_the_tiger">Eye of the Tiger</string>
+    <string name="sizzlers_ranch">Sizzler\'s Ranch</string>
+
+</resources>
